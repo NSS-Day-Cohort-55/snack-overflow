@@ -43,14 +43,12 @@ json-server -p 8088 -w  database.json
 
 5. To serve this project run
 ```
-npm run server
+serve
 ```
 
 6. This project uses Bootstrap. You may use anything associated with Bootstrap. https://getbootstrap.com/docs/5.0/getting-started/introduction/
-7. Optional - If you want to make changes to the main `SCSS` file, you will need to re-compile the css by running the following in the root directory.
-```
-npm run css-compile
-```
+7. Optional - If you want to make changes to the main `SCSS` file, you will need to re-compile the css. Refer to SASS documentation.
+
 
 # Expectations
 It is your job to complete as many features as possible. Bryan with SnackOverflow only has enough money to pay developers for **one day**. You should not refactor any functional code or make unnecessary changes to the styling. Do not deviate from the work listed.

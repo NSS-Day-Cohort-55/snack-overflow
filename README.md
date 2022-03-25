@@ -2,7 +2,10 @@
 
 ![](assets/images/snackoverflow.svg)
 
-SnackOverflow is a local restaraunt that caters lunch for techies. Currently customers must call the restaurant to place a take-out order. To better serve the customers, the owner, Bryan would like to accept online orders. 
+<img src="assets/images/bryan.jpg" align="left" width="100px" />
+SnackOverflow is a local restaurant that caters lunch for techies. Currently customers must call the restaurant to place a take-out order. To better serve the customers, the owner Bryan 👋 would like to accept online orders. 
+
+##
 
 1. To improve the customer experience, Bryan would like for the menu items to be displayed on the page based on menu category.
 1. Each menu item should have an order button and quantity.

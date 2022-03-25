@@ -1,9 +1,3 @@
-// let loggedInUser = {
-//     id: 1,
-//     name: "Bryan",
-//     email: "bryan@bn.com",
-//     isAdmin: true
-//   }
 let loggedInUser = {};
 
 export const getLoggedInUser = () => {

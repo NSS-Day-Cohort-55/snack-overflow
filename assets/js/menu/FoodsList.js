@@ -6,7 +6,7 @@ export const FoodList = () => {
     let HTMLString;
     MenuManger.getFoods()
     .then(foodArray => {
-        HTMLString = `<div class="row">`
+        HTMLString = `<div class="row gx-0">`
         HTMLString += foodArray.map(food => FoodCard(food)).join('')
         HTMLString += `</div>`
         contentTarget.innerHTML = HTMLString;
